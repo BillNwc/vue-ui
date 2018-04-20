@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+    1234
     <HelloWorld/>
   </div>
 </template>
